@@ -1,0 +1,8 @@
+*{
+  padding: 0;
+  margin : 0;
+}
+button.add_data a {
+  text-decoration: none;
+  color: white;
+}
